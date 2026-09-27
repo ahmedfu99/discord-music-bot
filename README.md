@@ -1,6 +1,6 @@
 # BURN BOT
 
-Prepared for bot 938531169316769832. Owner: @hnooode (202282156418924550).
+music bot that can play music in your channel 
 
 ## Status
 
